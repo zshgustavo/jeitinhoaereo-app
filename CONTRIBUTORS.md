@@ -1,3 +1,5 @@
 # Contribuidores
 
+    @zshgustavo
+
 - Equipe JeitinhoAéreo
