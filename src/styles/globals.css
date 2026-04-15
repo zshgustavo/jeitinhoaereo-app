@@ -1,0 +1,53 @@
+:root {
+  --color-navy: #2a1a4a;
+  --color-orange: #f58220;
+  --color-ink: #1e1b3a;
+  --color-muted: #9a96b3;
+  --color-line: #eae6f2;
+  --shell-bg: #f9f6ff;
+  --surface: #ffffff;
+
+  color: var(--color-ink);
+  background-color: var(--shell-bg);
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: radial-gradient(circle at 12% 20%, rgba(245, 130, 32, 0.08), transparent 30%),
+    radial-gradient(circle at 80% 10%, rgba(42, 26, 74, 0.08), transparent 28%),
+    radial-gradient(circle at 60% 70%, rgba(154, 150, 179, 0.12), transparent 40%),
+    var(--shell-bg);
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 32px 16px 48px;
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+a {
+  color: inherit;
+}
+
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible {
+  outline: 2px solid var(--color-orange);
+  outline-offset: 2px;
+}
