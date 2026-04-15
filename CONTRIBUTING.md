@@ -5,3 +5,5 @@
 3. Siga a estrutura de pastas descrita em `docs/ARCHITECTURE.md` e use componentes de `src/components/ui/` sempre que possível.
 4. Preferir português como idioma padrão; adicione traduções em `src/data/translations.js` quando criar novas cópias.
 5. Mantenha commits pequenos e descritivos.
+
+Reconhecimento: qualquer pessoa que enviar um commit ou abrir uma issue será incluída automaticamente em [`CONTRIBUTORS.md`](CONTRIBUTORS.md) com nome, usuário do GitHub e data de inclusão.
