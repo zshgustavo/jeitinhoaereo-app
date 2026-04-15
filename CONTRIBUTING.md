@@ -6,4 +6,4 @@
 4. Preferir português como idioma padrão; adicione traduções em `src/data/translations.js` quando criar novas cópias.
 5. Mantenha commits pequenos e descritivos.
 
-Reconhecimento: qualquer pessoa que enviar um commit ou abrir uma issue será incluída automaticamente em [`CONTRIBUTORS.md`](CONTRIBUTORS.md) com nome, usuário do GitHub e data de inclusão.
+Reconhecimento: contribuições por commit ou issue podem ser registradas em [`CONTRIBUTORS.md`](CONTRIBUTORS.md) pela manutenção do projeto, com nome, usuário do GitHub e data de inclusão.

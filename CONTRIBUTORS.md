@@ -1,6 +1,6 @@
 # Contribuidores
 
-Qualquer pessoa que já tenha enviado um commit ou aberto uma issue neste repositório é incluída automaticamente aqui, com nome, usuário e data em que a inclusão foi registrada.
+Pessoas que já enviaram commits ou abriram issues neste repositório podem ser incluídas manualmente aqui, com nome, usuário e data em que a inclusão foi registrada.
 
 | Nome           | GitHub | Data de inclusão |
 | -------------- | ------ | ---------------- |
